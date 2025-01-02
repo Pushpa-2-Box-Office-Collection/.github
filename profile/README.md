@@ -4,7 +4,7 @@
 
 ## 🎬 Pushpa 2 Box Office Collection  
 
-Welcome to **DigitalIndiaGuides**, your trusted source for trending updates, movie box office collections, and entertainment news. Today, we bring you a detailed analysis of the highly anticipated movie **Pushpa 2: The Rule**, starring **Allu Arjun** and **Rashmika Mandanna**. This sequel to the blockbuster **Pushpa: The Rise** has taken the box office by storm, shattering records in both domestic and international markets.  
+Welcome to **Pushpa 2 Box Office Collection**, your trusted source for trending updates, movie box office collections, and entertainment news. Today, we bring you a detailed analysis of the highly anticipated movie **Pushpa 2: The Rule**, starring **Allu Arjun** and **Rashmika Mandanna**. This sequel to the blockbuster **Pushpa: The Rise** has taken the box office by storm, shattering records in both domestic and international markets.  
 
 ---
 
@@ -86,14 +86,4 @@ Pushpa 2 currently holds a high rating of **8.5/10** on IMDB, reflecting its mas
 
 ---
 
-## 🌟 About DigitalIndiaGuides  
-
-**DigitalIndiaGuides** is a GitHub organization dedicated to providing valuable content on trending topics, digital services, and entertainment updates.  
-
-- **Website**: [Bollywood Khabar](https://ignus.co.in)  
-- **Contact**: contact@digitalindiaguides.com  
-- **Follow Us**: [GitHub Organization](https://github.com/DigitalIndiaGuides)  
-
----
-
-© 2025 DigitalIndiaGuides. All rights reserved.  
+© 2025 Pushpa 2 Box Office Collection. All rights reserved.
