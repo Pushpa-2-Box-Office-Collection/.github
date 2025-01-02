@@ -23,11 +23,11 @@ Welcome to **DigitalIndiaGuides**, your trusted source for trending updates, mov
 
 ## 🌐 Quick Links  
 
-- **[Pushpa 2 Box Office Collection Updates](https://bollywoodkhabar.com)**  
-- **[Top 10 Allu Arjun Movies You Must Watch](https://bollywoodkhabar.com)**  
-- **[Pushpa: The Rise - Full Box Office Collection Report](https://bollywoodkhabar.com)**  
+- **[Pushpa 2 Box Office Collection Updates](https://ignus.co.in)**  
+- **[Top 10 Allu Arjun Movies You Must Watch](https://ignus.co.in)**  
+- **[Pushpa: The Rise - Full Box Office Collection Report](https://ignus.co.in)**  
 
-Visit **[Bollywood Khabar](https://bollywoodkhabar.com)** for the latest Bollywood news and updates!  
+Visit **[Bollywood Khabar](https://ignus.co.in)** for the latest Bollywood news and updates!  
 
 ---
 
@@ -90,7 +90,7 @@ Pushpa 2 currently holds a high rating of **8.5/10** on IMDB, reflecting its mas
 
 **DigitalIndiaGuides** is a GitHub organization dedicated to providing valuable content on trending topics, digital services, and entertainment updates.  
 
-- **Website**: [Bollywood Khabar](https://bollywoodkhabar.com)  
+- **Website**: [Bollywood Khabar](https://ignus.co.in)  
 - **Contact**: contact@digitalindiaguides.com  
 - **Follow Us**: [GitHub Organization](https://github.com/DigitalIndiaGuides)  
 
